@@ -1,0 +1,10 @@
+c:\Users\FIC\Desktop\ProjetoAula\ProjetoStream\bin\Debug\netcoreapp2.0\ProjetoStream.deps.json
+c:\Users\FIC\Desktop\ProjetoAula\ProjetoStream\bin\Debug\netcoreapp2.0\ProjetoStream.runtimeconfig.json
+c:\Users\FIC\Desktop\ProjetoAula\ProjetoStream\bin\Debug\netcoreapp2.0\ProjetoStream.runtimeconfig.dev.json
+c:\Users\FIC\Desktop\ProjetoAula\ProjetoStream\bin\Debug\netcoreapp2.0\ProjetoStream.dll
+c:\Users\FIC\Desktop\ProjetoAula\ProjetoStream\bin\Debug\netcoreapp2.0\ProjetoStream.pdb
+c:\Users\FIC\Desktop\ProjetoAula\ProjetoStream\obj\Debug\netcoreapp2.0\ProjetoStream.csproj.CoreCompileInputs.cache
+c:\Users\FIC\Desktop\ProjetoAula\ProjetoStream\obj\Debug\netcoreapp2.0\ProjetoStream.AssemblyInfoInputs.cache
+c:\Users\FIC\Desktop\ProjetoAula\ProjetoStream\obj\Debug\netcoreapp2.0\ProjetoStream.AssemblyInfo.cs
+c:\Users\FIC\Desktop\ProjetoAula\ProjetoStream\obj\Debug\netcoreapp2.0\ProjetoStream.dll
+c:\Users\FIC\Desktop\ProjetoAula\ProjetoStream\obj\Debug\netcoreapp2.0\ProjetoStream.pdb
